@@ -1,6 +1,6 @@
 ## B&O landing pages
 
-Responsive landings developed according to the design created using best practices.
+Responsive landing developed according to the design created using best practices.
 An SEO, performance & accessibility optimized.
 Technologies: HTML5, CSS3, SCSS, Gulp
 
